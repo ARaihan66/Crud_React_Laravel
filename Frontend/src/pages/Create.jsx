@@ -51,7 +51,7 @@ const Create = () => {
         />
 
         <button
-          className="border-1 text-bold uppercase text-2xl bg-orange-500 p-3 mx-20 my-10 rounded-lg hover:bg-orange-300 hover:text-white"
+          className="border-1 font-bold uppercase text-2xl bg-orange-500 p-3 mx-20 my-10 rounded-lg hover:bg-orange-400 hover:text-white"
           type="submit"
           onClick={handleOnSubmit}
         >
